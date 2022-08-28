@@ -11,7 +11,7 @@
  
 # 信息配置
 # 和风天气apikey
-"weather_key": "CjCTFSteoM0yhgVUH1Ib6i4dS3M1JM0ubH7WjFWL1LY",
+"weather_key": "46bb4045c9c644878d9f00faaa6020d2",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "长治市",
 # 在一起的日子，格式同上，暂不不支持农历
